@@ -1,0 +1,1 @@
+LazyList.from(0)
